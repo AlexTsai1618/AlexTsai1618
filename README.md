@@ -10,14 +10,14 @@
 <img src="https://komarev.com/ghpvc/?username=AlexTsai1618&style=flat-square&color=blue" alt=""/>
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :taiwan:
-I'm currently a graduate student @ Virginia Tech
-I have two years of software engineering experience in cyber security and cloud solution.
-Recently focused on Federated learning research.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :taiwan: <br />
+I'm currently a graduate student @ Virginia Tech <br />
+I have two years of software engineering experience in cyber security and cloud solution. <br />
+Recently focused on Federated learning research. <br />
 
 - 🔭 I’m seeking 2023 software engineer internship.
 - :zap: In my free time, I solve problems on leetcode and learn the penetration testing knowledge.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alex-tsai-9a7451243/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alex-tsai-9a7451243/)
 
 ---
 
