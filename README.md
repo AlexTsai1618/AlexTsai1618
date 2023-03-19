@@ -43,7 +43,7 @@ Recently focused on Federated learning research. <br />
 ---
 
 ### :fire: My Stats :
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexTsai1618&theme=2077"/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTsai1618&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTsai1618&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
