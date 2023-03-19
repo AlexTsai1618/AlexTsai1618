@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=AlexTsai1618&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=AlexTsai1618&style=flat-square&color=blue" alt=""/>
-
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :taiwan: <br />
 I'm currently a graduate student @ Virginia Tech <br />
@@ -37,14 +35,16 @@ Recently focused on Federated learning research. <br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nestjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexTsai1618&theme=2077"/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTsai1618&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTsai1618&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTsai1618&layout=compact&theme=vision-friendly-dark)(https://github.com/anuraghazra/github-readme-stats)
 
 
